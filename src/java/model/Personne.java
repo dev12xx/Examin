@@ -5,10 +5,7 @@
  */
 package model;
 
-/**
- *
- * @author toshiba
- */
+
 public class Personne {
     String nom;
     int age;
